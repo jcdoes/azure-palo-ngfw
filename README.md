@@ -1,6 +1,8 @@
 # azure-palo-ngfw
 A mostly Terraform IaC template written for Azure I compiled from many different sources. This is different than the Palo Alto NGFW Firewall resource type as you will be deploying the firewall VMs and required load balancers.
 
+Blog Post: https://www.jcdoes.com/index.php/programming/cloud/palo-alto-ngfw-in-azure
+
 ## Deploying
 Make sure you have Terraform installed and in the user environment path.
 
